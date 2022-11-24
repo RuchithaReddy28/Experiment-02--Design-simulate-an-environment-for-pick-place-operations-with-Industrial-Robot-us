@@ -49,6 +49,10 @@ Rename the first target as Home by pressing F2. Alternatively, select ToolsRenam
 	 
 ### PROGRAM 
 ```
+Name:Akkireddy Ruchitha Reddy
+Register Number:212221230004
+```
+```
 import sys
 import os
 sys.path.append(os.path.abspath(r"""E:/RoboDK/Posts/""")) # temporarily add path to POSTS folder
